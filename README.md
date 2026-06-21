@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">👋 I'm Dev Kumar<br><br>💻 Computer Science Student  <br>🚀 Passionate about Web Development, Algorithms and CyberSecurity<br>🌱 Currently learning  Advanced Algorithms and Penetration Testings <br>🎯 Interested in building impactful tech solutions</p>
+<p align="left">👋 I'm Dev Kumar<br><br>💻 Computer Science Student  <br>🚀 Passionate about Web Development, Game Development, Algorithms and CyberSecurity<br>🌱 Currently learning  Advanced Algorithms and Game Development <br>🎯 Interested in building impactful tech solutions</p>
 
 ###
 
@@ -40,7 +40,11 @@
 
 ###
 
-<p align="left">🔹 Error-119  <br>A learning platform providing roadmap, study materials, quizzes and analytics dashboard.<br><br>🔹 Queue Management System<br>A mobile application with a web dashboard to track and monitor real-time patient queues for preventing overcrowding at Hospitals.<br><br>🔹 Expense Manager  <br>A web application to track income and expenses with insights dashboard.</p>
+<p align="left">🔹 Splitwise-Lite <br>Expense Tracking application helps to split expenses in groups <br><br>🔹 Queue Management System<br>A mobile application with a web dashboard to track and monitor real-time patient queues for preventing overcrowding at Hospitals.<br><br>🔹 Horror-Game  <br>First person 3d horror game built using Unity 3D and C#</p>
+<br>
+
+<h2> My Gaming Portfolio: </h2> https://github.com/devverma4572/devkumar-gaming-portfolio
+<br><br>
 
 ###
 
@@ -103,8 +107,6 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
-<img src="https://raw.githubusercontent.com/devverma4572/devverma4572/output/snake.svg" alt="Snake animation" />
 
 ###
 
